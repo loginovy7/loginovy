@@ -1,0 +1,30 @@
+{
+  "name": "loginovy",
+  "version": "1.0.0",
+  "description": "Loginovy is a versatile Node.js module containing various useful functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loginovy7/loginovy"
+  },
+  "dependencies": {
+	  "filatovmark": "1.0.0",
+"petrivany": "1.0.0",
+"v2-sharondavis": "1.0.0",
+"anthonyjones": "1.0.0",
+"annef-js": "1.0.0",
+"dorothymoore": "1.0.0",
+"borissolodov": "1.0.0",
+    "axios": "^0.24.0",
+    "lodash": "^4.17.21"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loginovy7/loginovy/issues"
+  },
+  "homepage": "https://github.com/loginovy7/loginovy#readme"
+}
